@@ -1,7 +1,7 @@
 TCS Rubberban
 ====
 
-JS的实现框选效果
+JS的实现框选效果，**这不是一个library，这只是一个实现demo**
 
 ![](./demo.gif)
 
